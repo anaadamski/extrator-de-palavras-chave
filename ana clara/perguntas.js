@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Historia',
+    'Qual é o nome do tratado que estabeleceu a divisão do Brasil com Portugal em 1750?',
+    'Foi o Tratado de Madri.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o principal objetivo da Organização do Tratado do Atlântico Norte (OTAN)?',
+    'Promover a cooperação militar e a segurança entre países do Norte da América e Europa'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Portugues',
+    ' Qual é a classificação da palavra "rapidamente" na frase: "Ela correu rapidamente para o parque?',
+    'Advérbio de modo'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Qual é o tempo verbal usado para falar de ações que acontecem regularmente?',
+    'O tempo verbal usado para falar de ações que acontecem regularmente é o Present Simple.'
 )
